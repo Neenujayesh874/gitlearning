@@ -9,3 +9,12 @@ adding a global user.name
 
 >git config --global user.email "useremail"
 adding a global user.email
+
+>git init
+command for initialsing git repository
+
+>git add -A
+command for initialising git repository
+
+>git commit -m "commit message"
+command for adding staged files to local repository
