@@ -18,3 +18,6 @@ command for initialising git repository
 
 >git commit -m "commit message"
 command for adding staged files to local repository
+
+>git status
+command for listing all untracked files
