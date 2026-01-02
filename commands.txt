@@ -2,13 +2,13 @@ configuration
 =============
 
 >git config --list
-list all config details
+command to list all config details
 
 >git config --global user.name "username"
-adding a global user.name
+command for adding a global user.name
 
 >git config --global user.email "useremail"
-adding a global user.email
+command for adding a global user.email
 
 >git init
 command for initialsing git repository
