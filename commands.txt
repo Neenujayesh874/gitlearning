@@ -21,3 +21,15 @@ command for adding staged files to local repository
 
 >git status
 command for listing all untracked files
+
+>git remote -v
+command to list remote
+
+>git remote add name remote_path
+command for adding remote repository to local repository
+
+>git push name
+command to push from local to remote repository
+
+>git branch
+command to know branch
